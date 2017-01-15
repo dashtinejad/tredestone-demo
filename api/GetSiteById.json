@@ -1,0 +1,28 @@
+{
+  "Id": "my-first-web-site",
+  "Title": "Hello World",
+  "Keywords": null,
+  "Description": null,
+  "Properties": [
+    {
+      "Group": "About",
+      "Key": "PageTitle",
+      "Value": "About Photographer"
+    },
+    {
+      "Group": "Core",
+      "Key": "SiteColor",
+      "Value": "blackpink"
+    },
+    {
+      "Group": "Core",
+      "Key": "Biography",
+      "Value": "A professional photographer may be an employee, for example of a newspaper, or may contract to cover a particular planned event such as a wedding or graduation, or to illustrate an advertisement. Others, including paparazzi and fine art photographers, are freelancers, first making a picture and then offering it for sale or display. Some workers, such as crime scene detectives, estate agents, journalists and scientists, make photographs as part of other work. Photographers who produce moving rather than still pictures are often called cinematographers, videographers or camera operators, depending on the commercial context."
+    }
+  ],
+  "CreateDate": "0001-01-01T00:00:00",
+  "UpdateDate": "0001-01-01T00:00:00",
+  "UserId": null,
+  "CategoryId": null,
+  "TemplateId": "outdoor"
+}

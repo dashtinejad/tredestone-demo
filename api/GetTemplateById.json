@@ -1,0 +1,25 @@
+{
+  "Id": null,
+  "Title": "Outdoor",
+  "Picture": null,
+  "Basename": "outdoor",
+  "CategoryId": null,
+  "Colors": {
+    "default": "#292929",
+    "blue": "#0033a1",
+    "purple": "#583d81",
+    "blackpink": "#894c53",
+    "crimson": "#9c182f",
+    "brown": "#6a4024",
+    "night": "#021d49",
+    "olive": "#5a5b3c",
+    "green": "#648c1c",
+    "sky": "#0081bc"
+  },
+  "Fonts": {
+    "Vazir": "وزیر",
+    "Gandom": "گندم",
+    "Sahel": "ساحل",
+    "Shabnam": "شبنم"
+  }
+}
